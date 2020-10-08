@@ -1,0 +1,23 @@
+{
+	"name": "snowstormrepo",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "parcel serve -- index.html"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/shinypb/snowstormrepo.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/shinypb/snowstormrepo/issues"
+	},
+	"homepage": "https://github.com/shinypb/snowstormrepo#readme",
+	"dependencies": {
+		"parcel": "^1.12.4"
+	}
+}
